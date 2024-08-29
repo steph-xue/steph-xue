@@ -5,7 +5,7 @@ I’m Stephanie Xue (@steph-xue). I am an aspiring software developer and curren
 - 💞️ I’m looking to collaborate on new innovative project ideas
 - 📫 How to reach me: email me at stephaniexue3@gmail.com
 - 😄 Pronouns: she/her
-- 🐈 Fun fact: I have a cat named Rhea who is an american shorthair maine coon mix 
+- 🐈 Fun fact: I have a cat named Rhea who is an American Shorthair Maine Coon mix 
 
 <br> 
 
