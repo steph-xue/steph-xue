@@ -9,7 +9,7 @@ I’m Stephanie Xue (@steph-xue). I am an aspiring software developer and curren
 
 <br> 
 
-# Connect With Me
+# Connect With Me 🤝
 <a href="https://www.linkedin.com/in/stephanie-x-639182188/"><img align="left" src="icons/linkedin.png" alt="linkedin" width="35px"/></a>
 <a href="https://www.instagram.com/stephxue_"><img align="left" src="icons/instagram.png" alt="instagram" width="35px"/></a>
 <a href="mailto:stephaniexue3@gmail.com"><img align="left" src="icons/mail.png" alt="mail" width="35px"/></a>
@@ -18,12 +18,13 @@ I’m Stephanie Xue (@steph-xue). I am an aspiring software developer and curren
 &nbsp; &nbsp;
 
 
-# Technical Skills
+# Technical Skills 💻
+<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 <br><br>
 &nbsp; &nbsp;
 
-# Github Stats
+# Github Stats 📊
 
 [![Stephanie’s github stats](https://github-readme-stats.vercel.app/api?username=steph-xue)](https://github.com/steph-xue)
 
