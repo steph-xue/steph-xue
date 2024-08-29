@@ -1,4 +1,4 @@
-# Hi There 👋
+# Hi There  👋
 
 I’m Stephanie Xue (@steph-xue). I am an aspiring software developer and current UBC BCS student with a background in healthcare as a pharmacist 👩‍💻👩‍⚕️. I’m interested in technology, programming, UX/UI design, artificial intelligence, healthcare innovation, problem solving, digital art, photography, video games, food, and travel.
 - 🌱 I’m currently learning web development with React and Node JS
@@ -9,36 +9,47 @@ I’m Stephanie Xue (@steph-xue). I am an aspiring software developer and curren
 
 <br> 
 
-# Connect With Me 🤝
-<a href="https://www.linkedin.com/in/stephanie-x-639182188/"><img align="left" src="icons/linkedin.png" alt="linkedin" width="35px"/></a>
+# Connect With Me  🤝
+<a href="https://www.linkedin.com/in/stephanie-x-639182188/"><img align="left" src="icons/linkedin.png" alt="linkedin" width="35px"/></a> 
+&nbsp;
 <a href="https://www.instagram.com/stephxue_"><img align="left" src="icons/instagram.png" alt="instagram" width="35px"/></a>
+&nbsp;
 <a href="mailto:stephaniexue3@gmail.com"><img align="left" src="icons/mail.png" alt="mail" width="35px"/></a>
 
-<br><br>
-&nbsp; &nbsp;
-
+<br>
 
 # Technical Skills 💻
-## Programming Languages & Tools
-<img align="left" src="icons/c.svg" alt="c" width="35px"/>
-<img align="left" src="icons/python.png" alt="python" width="35px"/>
-<img align="left" src="icons/js.png" alt="javascript" width="35px"/>
-<img align="left" src="icons/html5.svg" alt="html" width="35px"/>
-<img align="left" src="icons/css3.svg" alt="css" width="35px"/>
-
+**Programming Languages & Tools**
 <br><br>
 &nbsp; &nbsp;
+<img src="icons/python.png" alt="python" width="35px"/>
+&nbsp; &nbsp;
+<img src="icons/js.png" alt="javascript" width="35px"/>
+&nbsp; &nbsp;
+<img src="icons/html5.svg" alt="html" width="35px"/>
+&nbsp; &nbsp;
+<img src="icons/css3.svg" alt="css" width="35px"/>
+&nbsp;
+<img src="icons/c.svg" alt="c" width="45px"/>
 
-## Frameworks & Databases
+<br>
+
+**Frameworks & Databases**
+<br><br>
+&nbsp; &nbsp;
 <img align="left" src="icons/react.png" alt="react" width="35px"/>
-<img align="left" src="icons/nodejs.svg" alt="nodejs" width="35px"/>
-<img align="left" src="icons/vite.png" alt="vite" width="35px"/>
-<img align="left" src="icons/django.svg" alt="django" width="35px"/>
-<img align="left" src="icons/flask.png" alt="flask" width="35px"/>
-<img align="left" src="icons/sql.png" alt="sql" width="35px"/>
-
-<br><br>
 &nbsp; &nbsp;
+<img align="left" src="icons/nodejs.png" alt="nodejs" width="45px"/>
+&nbsp; &nbsp;
+<img align="left" src="icons/vite.png" alt="vite" width="40px"/>
+&nbsp; &nbsp;
+<img align="left" src="icons/django.svg" alt="django" width="40px"/>
+&nbsp; &nbsp;
+<img align="left" src="icons/flask.png" alt="flask" width="40px"/>
+&nbsp; &nbsp;
+<img align="left" src="icons/sql.png" alt="sql" width="30px"/>
+
+<br>
 
 # Github Stats 📊
 
