@@ -8,7 +8,7 @@ I’m Stephanie Xue (@steph-xue). I am an aspiring software developer and curren
 - 🐈 Fun fact: I have a cat named Rhea who is an american shorthair maine coon mix 
 
 # Connect With Me
-<a href=”https://twitter.com/deepajarout"><img align=”left” src=”https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296514_bird_tweet_twitter_twitter logo_icon.png” alt=”deepa Jarout| Twitter” width=”35px”/></a>
+<a href="icons/email.png"><img align="left" src="icons/email.png" alt="email" width="35px"/></a>
 
 # Technical Skills
 
