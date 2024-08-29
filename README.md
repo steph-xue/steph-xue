@@ -19,7 +19,23 @@ I’m Stephanie Xue (@steph-xue). I am an aspiring software developer and curren
 
 
 # Technical Skills 💻
-<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+## Programming Languages & Tools
+<img align="left" src="icons/c.svg" alt="c" width="35px"/>
+<img align="left" src="icons/python.png" alt="python" width="35px"/>
+<img align="left" src="icons/js.png" alt="javascript" width="35px"/>
+<img align="left" src="icons/html5.svg" alt="html" width="35px"/>
+<img align="left" src="icons/css3.svg" alt="css" width="35px"/>
+
+<br><br>
+&nbsp; &nbsp;
+
+## Frameworks & Databases
+<img align="left" src="icons/react.png" alt="react" width="35px"/>
+<img align="left" src="icons/nodejs.svg" alt="nodejs" width="35px"/>
+<img align="left" src="icons/vite.png" alt="vite" width="35px"/>
+<img align="left" src="icons/django.svg" alt="django" width="35px"/>
+<img align="left" src="icons/flask.png" alt="flask" width="35px"/>
+<img align="left" src="icons/sql.png" alt="sql" width="35px"/>
 
 <br><br>
 &nbsp; &nbsp;
