@@ -39,8 +39,6 @@ I’m Stephanie Xue (@steph-xue). I am an aspiring software developer and curren
 &nbsp; &nbsp;
 <img align="left" src="icons/react.png" alt="react" width="35px"/>
 &nbsp; &nbsp;
-<img align="left" src="icons/nodejs.png" alt="nodejs" width="45px"/>
-&nbsp; &nbsp;
 <img align="left" src="icons/vite.png" alt="vite" width="40px"/>
 &nbsp; &nbsp;
 <img align="left" src="icons/django.svg" alt="django" width="40px"/>
