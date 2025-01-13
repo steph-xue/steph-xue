@@ -10,7 +10,7 @@ I’m Steph (@steph-xue). I am an aspiring software developer and current UBC BC
 <br> 
 
 # Connect With Me  🤝
-<a href="https://www.linkedin.com/in/stephanie-x-639182188/"><img align="left" src="icons/linkedin.png" alt="linkedin" width="35px"/></a> 
+<a href="https://www.linkedin.com/in/stephxue/"><img align="left" src="icons/linkedin.png" alt="linkedin" width="35px"/></a> 
 &nbsp;
 <a href="https://www.instagram.com/stephxue_"><img align="left" src="icons/instagram.png" alt="instagram" width="35px"/></a>
 &nbsp;
