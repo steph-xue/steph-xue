@@ -60,10 +60,6 @@ I’m Steph (@steph-xue). I am an aspiring full-stack software developer and cur
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=steph-xue&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-[![Stephanie’s github stats](https://github-readme-stats.vercel.app/api?username=steph-xue)](https://github.com/steph-xue)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steph-xue&layout=compact)](https://github.com/steph-xue)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=steph-xue&theme=tokyonight)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=steph-xue&theme=tokyonight)
