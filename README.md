@@ -57,3 +57,11 @@ I’m Steph (@steph-xue). I am an aspiring full-stack software developer and cur
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steph-xue&layout=compact)](https://github.com/steph-xue)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=steph-xue&theme=nord_bright)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=steph-xue&theme=nord_bright)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=steph-xue&theme=nord_bright)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=steph-xue&theme=nord_bright&)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=steph-xue&theme=nord_bright&utcOffset=8)
