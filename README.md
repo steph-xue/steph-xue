@@ -3,7 +3,7 @@
 I’m Steph (@steph-xue). I am an aspiring full-stack software developer and current Bachelor of Computer Science (BCS) student at the University of British Columbia. I have a previous background in healthcare as a pharmacist, having previously obtained a Doctorate of Pharmacy (PharmD) degree also from the University of British Columbia 👩‍💻👩‍⚕️. I’m passionate about full-stack software and web development, UX/UI design, artificial intelligence, cloud computing, healthcare innovation, creative problem solving, and empowering communities for women in tech.
 - 🌱 I’m currently learning web development with React.js, Node.js, and Express.js 
 - 💞️ I’m always looking to collaborate on new innovative project ideas
-- Some of my other interests include: digital art, photography, video games, food, exploring coffee shops, and travel
+- 🎨 Some of my other interests include: digital art, photography, video games, food, exploring coffee shops, and travel
 - 🐈 Fun fact: I have a cat named Rhea who is an American Shorthair Maine Coon mix
 - 📫 How to reach me: connect with me on LinkedIn below or email me at stephaniexue3@gmail.com
 
