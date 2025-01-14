@@ -70,10 +70,3 @@ I’m Steph (@steph-xue). I am an aspiring full-stack software developer and cur
 <a href="https://github.com/steph-xue/convoychat">
   <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=steph-xue&theme=rose_pine&utcOffset=8" />
 </a>
-
-<a href="https://github.com/steph-xue/github-readme-stats">
-  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=steph-xue&theme=rose_pine" />
-</a>
-<a href="https://github.com/steph-xue/convoychat">
-  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=steph-xue&theme=rose_pine" />
-</a>
