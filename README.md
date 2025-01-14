@@ -5,7 +5,7 @@ I’m Steph (@steph-xue). I am an aspiring full-stack software developer and cur
 - 💞️ I’m always looking to collaborate on new innovative project ideas
 - 🎨 Some of my other interests include: Digital art, photography, video games, food, travel, and exploring coffee shops
 - 🐈 Fun fact: I have a cat named Rhea who is an American Shorthair Maine Coon mix
-- 📫 How to reach me: connect with me on LinkedIn below or email me at stephaniexue3@gmail.com
+- 📫 How to reach me: Connect with me on LinkedIn below or email me at stephaniexue3@gmail.com
 
 <br> 
 
