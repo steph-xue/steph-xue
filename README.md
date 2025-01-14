@@ -52,6 +52,13 @@ I’m Steph (@steph-xue). I am an aspiring full-stack software developer and cur
 
 # Github Stats 📊
 
+<a href="https://github.com/steph-xue/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=stephxue" />
+</a>
+<a href="https://github.com/steph-xue/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=steph-xue&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 [![Stephanie’s github stats](https://github-readme-stats.vercel.app/api?username=steph-xue)](https://github.com/steph-xue)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steph-xue&layout=compact)](https://github.com/steph-xue)
