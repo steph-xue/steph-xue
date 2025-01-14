@@ -55,19 +55,25 @@ I’m Steph (@steph-xue). I am an aspiring full-stack software developer and cur
 
 # Github Stats 📊
 
-<div href="https://github.com/steph-xue/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=steph-xue&theme=transparent\&rank_icon=github" />
+<a href="https://github.com/steph-xue/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=steph-xue&theme=tokyonight&rank_icon=github" />
 </a>
 <a href="https://github.com/steph-xue/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=steph-xue&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=steph-xue&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=steph-xue&theme=tokyonight)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=steph-xue&theme=tokyonight)
+<a href="https://github.com/steph-xue/github-readme-stats">
+  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=steph-xue&theme=tokyonight" />
+</a>
+<a href="https://github.com/steph-xue/convoychat">
+  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=steph-xue&theme=tokyonight" />
+</a>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=steph-xue&theme=tokyonight)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=steph-xue&theme=tokyonight)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=steph-xue&theme=tokyonight&utcOffset=8)
+<a href="https://github.com/steph-xue/github-readme-stats">
+  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=steph-xue&theme=tokyonight" />
+</a>
+<a href="https://github.com/steph-xue/convoychat">
+  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=steph-xue&theme=tokyonight&utcOffset=8" />
+</a>
