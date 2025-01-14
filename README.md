@@ -4,8 +4,8 @@ I’m Steph (@steph-xue). I am an aspiring full-stack software developer and cur
 - 🌱 I’m currently learning web development with React.js, Node.js, and Express.js 
 - 💞️ I’m always looking to collaborate on new innovative project ideas
 - Some of my other interests include: digital art, photography, video games, food, exploring coffee shops, and travel
-- 📫 How to reach me: email me at stephaniexue3@gmail.com
-- 🐈 Fun fact: I have a cat named Rhea who is an American Shorthair Maine Coon mix 
+- 🐈 Fun fact: I have a cat named Rhea who is an American Shorthair Maine Coon mix
+- 📫 How to reach me: connect with me on LinkedIn below or email me at stephaniexue3@gmail.com
 
 <br> 
 
