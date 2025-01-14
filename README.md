@@ -17,6 +17,7 @@ I’m Steph (@steph-xue). I am an aspiring full-stack software developer and cur
 <a href="mailto:stephaniexue3@gmail.com"><img align="left" src="icons/mail.png" alt="mail" width="35px"/></a>
 
 <br>
+<br> 
 
 # Technical Skills 💻
 **Programming Languages & Tools**
@@ -34,7 +35,7 @@ I’m Steph (@steph-xue). I am an aspiring full-stack software developer and cur
 &nbsp;
 <img src="icons/c.svg" alt="c" width="45px"/>
 
-<br>
+<br> 
 
 **Frameworks & Databases**
 <br><br>
@@ -50,6 +51,7 @@ I’m Steph (@steph-xue). I am an aspiring full-stack software developer and cur
 <img align="left" src="icons/sql.png" alt="sql" width="30px"/>
 
 <br>
+<br> 
 
 # Github Stats 📊
 
