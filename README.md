@@ -55,14 +55,14 @@ I’m Steph (@steph-xue). I am an aspiring full-stack software developer and cur
 
 # Github Stats 📊
 
-<p float="left">
+<div float="left">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=steph-xue&theme=rose_pine&rank_icon=github" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=steph-xue&layout=compact&langs_count=8&card_width=320&theme=rose_pine" />
-</p>
+</div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=steph-xue&theme=rose_pine)
 
-<p float="left">
+<div float="left">
   <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=steph-xue&theme=rose_pine" />
   <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=steph-xue&theme=rose_pine&utcOffset=8" />
-</p>
+</div>
