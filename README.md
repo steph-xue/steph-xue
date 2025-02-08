@@ -28,15 +28,13 @@ I’m Steph (@steph-xue). I am an aspiring full-stack software developer and cur
 &nbsp; &nbsp;
 <img src="icons/java.png" alt="java" width="35px"/>
 &nbsp; &nbsp;
-<img src="icons/c.svg" alt="c" width="45px"/>
-&nbsp; &nbsp;
 <img src="icons/js.png" alt="javascript" width="35px"/>
+&nbsp; &nbsp;
+<img src="icons/c.svg" alt="c" width="45px"/>
 &nbsp; &nbsp;
 <img src="icons/html5.svg" alt="html" width="35px"/>
 &nbsp; &nbsp;
 <img src="icons/css3.svg" alt="css" width="35px"/>
-&nbsp;
-<img src="icons/c.svg" alt="c" width="45px"/>
 
 <br> 
 
