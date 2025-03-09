@@ -4,9 +4,10 @@ I’m Steph (@steph-xue). I am an aspiring full-stack software developer and cur
 - 🌱 I’m currently learning software development
 - 💞️ I’m always looking to collaborate on new innovative project ideas
 - 🎨 Some of my other interests include: digital art, photography, video games, food, travel, and exploring coffee shops
-- 🐈 Fun fact: I have a cute cat named Rhea who is an American Shorthair Maine Coon mix
+- 🐈 Fun fact: I have a cute cat named Rhea who is an American Shorthair and Maine Coon mix
 - 📫 How to reach me: connect with me on LinkedIn below or email me at stephaniexue3@gmail.com
-- Personal Website Portfolio: stephxue.com
+- Personal Website Portfolio: https://stephxue.com
+- Devpost: https://devpost.com/steph-xue
 
 <br> 
 
