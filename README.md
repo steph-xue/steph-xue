@@ -6,8 +6,9 @@ I’m Steph (@steph-xue). I am an aspiring software developer and current Bachel
 - 🎨 Some of my other interests include: digital art, photography, video games, food, travel, and exploring coffee shops
 - 🐈 Fun fact: I have a cute cat named Rhea who is an American Shorthair and Maine Coon mix
 - 📫 How to reach me: connect with me on LinkedIn below or email me at stephaniexue3@gmail.com
-- Personal Website Portfolio: https://stephxue.com
-- Devpost: https://devpost.com/steph-xue
+
+Personal Website Portfolio: https://stephxue.com
+Devpost: https://devpost.com/steph-xue
 
 <br> 
 
