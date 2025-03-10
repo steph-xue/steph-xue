@@ -8,6 +8,7 @@ I’m Steph (@steph-xue). I am an aspiring software developer and current Bachel
 - 📫 How to reach me: connect with me on LinkedIn below or email me at stephaniexue3@gmail.com
 
 Personal Website Portfolio: https://stephxue.com
+<br> 
 Devpost: https://devpost.com/steph-xue
 
 <br> 
