@@ -67,6 +67,7 @@ Devpost: https://devpost.com/steph-xue
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=steph-xue&theme=rose_pine)
 
 <div float="left">
-  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=steph-xue&theme=rose_pine" />
+  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=steph-xue&theme=rose_pine" />
   <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=steph-xue&theme=rose_pine&utcOffset=8" />
+  
 </div>
