@@ -61,13 +61,12 @@ Devpost: https://devpost.com/steph-xue
 
 <div float="left">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=steph-xue&theme=rose_pine&rank_icon=github" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=steph-xue&layout=compact&langs_count=8&card_width=320&theme=rose_pine" />
+  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=steph-xue&theme=rose_pine&utcOffset=8" />
 </div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=steph-xue&theme=rose_pine)
 
 <div float="left">
   <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=steph-xue&theme=rose_pine" />
-  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=steph-xue&theme=rose_pine&utcOffset=8" />
-  
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=steph-xue&layout=compact&langs_count=8&card_width=320&theme=rose_pine" />
 </div>
