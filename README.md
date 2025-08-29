@@ -2,8 +2,9 @@
 
 My name is Steph (@steph-xue). I am software developer and current Bachelor of Computer Science (BCS) student at the University of British Columbia (UBC). Currently, I am interning as a Medical Device Software UI Developer at Kardium, where I am implementing tools and building automated test suites in Java to help streamline feature development for the Globe Pulsed Field System, an advanced catheter technology designed to treat atrial fibrillation through high-definition mapping, single-shot pulmonary vein isolation, and atrial ablation. I also have a clinical background in healthcare as a pharmacist, having previously obtained a Doctorate of Pharmacy degree (PharmD) at the University of British Columbia in 2022 👩‍💻👩‍⚕️. I am passionate about full-stack software development and system architecture, cloud computing, and artificial intelligence. I thrive on creative problem solving and love building impactful software and applications that address real-world challenges. I'm also committed to fostering inclusivity and empowering communities for women in tech.
 
-- 🌱 I'm currently furthering my knowledge in full stack software development, software architecture, and systems design
-- 💞️ I’m always looking to collaborate on new innovative project ideas
+- 🌱 I am currently a Medical Device Software UI Developer Intern @ Kardium (Fall 2025 - Spring 2026)
+- 🌱 Currently, I am furthering my knowledge in full stack software development, software architecture, and cloud computing
+- 💞️ I am always looking to collaborate on new innovative project ideas
 - 🎨 Some of my other interests include: photography, digital art, video games, food, travel, and exploring coffee shops
 - 🐈 Fun fact: I have a cute cat named Rhea who is an American Shorthair and Maine Coon mix
 - 📫 How to reach me: connect with me on LinkedIn below or email me at stephaniexue3@gmail.com
