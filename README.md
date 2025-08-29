@@ -9,15 +9,13 @@ My name is Steph (@steph-xue). I am software developer and current Bachelor of C
 - 🐈 Fun fact: I have a cute cat named Rhea who is an American Shorthair and Maine Coon mix
 - 📫 How to reach me: connect with me on LinkedIn below or email me at stephaniexue3@gmail.com
 
-Personal Website Portfolio: https://stephxue.com
-<br> 
-Devpost: https://devpost.com/steph-xue
-
 <br> 
 
 # Connect With Me  🤝
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stephaniexue3@gmail.com)
+[![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://stephxue.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephxue/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stephaniexue3@gmail.com)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/steph-xue)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/stephxue_)
 <br> 
 <br>
