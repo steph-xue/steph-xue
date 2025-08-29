@@ -2,7 +2,7 @@
 
 I’m Steph (@steph-xue). I am an aspiring software engineer and current Bachelor of Computer Science (BCS) student at the University of British Columbia. I have a previous clinical background in healthcare as a pharmacist, having previously obtained a Doctorate of Pharmacy degree (PharmD) at the University of British Columbia in 2022 👩‍💻👩‍⚕️. I'm passionate about full-stack software development and system architecture, cloud computing, artificial intelligence, healthcare innovation, and UX/UI design. I thrive on creative problem solving and love building impactful software and applications that address real-world challenges. I'm also committed to fostering inclusivity and empowering communities for women in tech.
 
-- 🌱 I'm currently furthering my knowledge in data structures and algorithms, software architecture, systems design, and front and back end software development
+- 🌱 I'm currently furthering my knowledge in full stack software development, software architecture, and systems design
 - 💞️ I’m always looking to collaborate on new innovative project ideas
 - 🎨 Some of my other interests include: digital art, photography, video games, food, travel, and exploring coffee shops
 - 🐈 Fun fact: I have a cute cat named Rhea who is an American Shorthair and Maine Coon mix
