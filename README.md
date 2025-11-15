@@ -32,14 +32,14 @@ My name is Steph (@steph-xue) and I am a Bachelor of Computer Science (BCS) stud
 ![Racket](https://img.shields.io/badge/Racket-%239F1D20.svg?style=for-the-badge&logo=racket&logoColor=white)
 <br>
 
-**Other Languages**
+**Markup & Styling Languages**
 <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 <br>
 
-**Frontend Frameworks & Libraries**
+**Frontend Technologies**
 <br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -47,7 +47,7 @@ My name is Steph (@steph-xue) and I am a Bachelor of Computer Science (BCS) stud
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 <br>
 
-**Backend Frameworks & Libraries**
+**Backend Technologies**
 <br>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -61,13 +61,13 @@ My name is Steph (@steph-xue) and I am a Bachelor of Computer Science (BCS) stud
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 <br>
 
-**Integrated Development Environments (IDE)**
+**Integrated Development Environments (IDEs)**
 <br>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 <br>
 
-**Development Tools**
+**Developer Tools & Build Systems**
 <br>
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -76,23 +76,23 @@ My name is Steph (@steph-xue) and I am a Bachelor of Computer Science (BCS) stud
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 <br>
 
-**Databases**
+**Database Technologies**
 <br>
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 <br>
 
-**CI/CD**
+**CI/CD Tools**
 <br>
 ![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white)
 <br>
 
-**Cloud Hosting**
+**Cloud Deployment & Hosting Platforms**
 <br>
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 <br>
 
-**Design**
+**Design & Creative Tools**
 <br>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
