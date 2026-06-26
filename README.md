@@ -8,7 +8,7 @@ My name is Steph (@steph-xue) and I am a Bachelor of Computer Science (BCS) stud
 - 🎨 Some of my other interests include: photography, digital art, video games, food, travel, and exploring coffee shops
 - 🐈 Fun fact: I have a cute cat named Rhea who is an American Shorthair and Maine Coon mix
 - 📫 How to reach me: connect with me on LinkedIn below or email me at stephaniexue3@gmail.com
-
+  
 <br> 
 
 # Connect With Me  🤝
