@@ -17,7 +17,7 @@ My name is Steph (@steph-xue) and I am a Bachelor of Computer Science (BCS) stud
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/steph-xue)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stephaniexue3@gmail.com)
 
-<br><br>
+<br>
 
 # Technical Skills 💻
 **Programming Languages**
@@ -96,7 +96,7 @@ My name is Steph (@steph-xue) and I am a Bachelor of Computer Science (BCS) stud
 ![Font Awesome](https://img.shields.io/badge/Font_Awesome-%23538DD7.svg?style=for-the-badge&logo=fontawesome&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 
-<br><br>
+<br>
 
 # Github Stats 📊
 
