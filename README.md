@@ -1,4 +1,4 @@
-# Hi There  👋
+# Hi There 👋
 
 My name is Steph (@steph-xue) and I am a Bachelor of Computer Science (BCS) student at the University of British Columbia (UBC). I previously interned as a Software Developer at Kardium, where I am implementing tools and building automated test suites in Java to help streamline feature development for the Globe Pulsed Field System, an advanced catheter technology designed to treat atrial fibrillation through high-definition mapping, single-shot pulmonary vein isolation, and atrial ablation 👩‍💻🫀. I also have a clinical background in healthcare as a pharmacist, having previously obtained a Doctorate of Pharmacy degree (PharmD) at the University of British Columbia in 2022 👩‍⚕️🩺. I am passionate about full-stack software development and system architecture, artificial intelligence, and cloud computing. I thrive on creative problem solving and love building impactful software and applications that address real-world challenges. I'm also committed to fostering inclusivity and empowering communities for women in tech.
 
@@ -11,13 +11,13 @@ My name is Steph (@steph-xue) and I am a Bachelor of Computer Science (BCS) stud
   
 <br> 
 
-# Connect With Me  🤝
+# Connect With Me 🤝
 [![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://stephxue.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephxue/)
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/steph-xue)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stephaniexue3@gmail.com)
-<br> 
-<br>
+
+<br><br>
 
 # Technical Skills 💻
 **Programming Languages**
@@ -95,8 +95,8 @@ My name is Steph (@steph-xue) and I am a Bachelor of Computer Science (BCS) stud
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Font Awesome](https://img.shields.io/badge/Font_Awesome-%23538DD7.svg?style=for-the-badge&logo=fontawesome&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
-<br> 
-<br>
+
+<br><br>
 
 # Github Stats 📊
 
