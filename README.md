@@ -9,7 +9,7 @@ My technical interests include full-stack development, software architecture, cl
 - ☁️ Currently learning more about cloud infrastructure and AWS
 - 🤝🏻 Open to collaborating on innovative or fun project ideas
 - 📷 Other interests: photography, digital art, video games, food, and travel
-- 🐈 Fun fact: I have a cat named Rhea who loves cozy naps and keeping me company while I code
+- 🐈 Fun fact: I have a cute cat named Rhea who loves cozy naps, warm blankets, and cuddles
 - ✉️ How to reach me: connect with me on LinkedIn or send me an email at stephaniexue3@gmail.com
   
 <br> 
