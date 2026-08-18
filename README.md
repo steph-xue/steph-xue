@@ -1,16 +1,16 @@
-# Hi There 👋
+# Hi there! 👋🏻
 
-My name is Steph (@steph-xue), and I am a Bachelor of Computer Science (BCS) student at the University of British Columbia (UBC). I also previously graduated from UBC with a Doctor of Pharmacy degree (PharmD) in 2022 and worked as a pharmacist across various healthcare settings. These experiences showed me firsthand how fragmented systems and manual processes could impact patient care, which sparked my interest in building software to solve real-world problems. Over time, that interest grew into a genuine passion for software development, which led me to pursue a career in this field. 👩🏻‍💻🖥️
+My name is Steph (@steph-xue), and I am a Bachelor of Computer Science (BCS) student at the University of British Columbia (UBC). I have previously graduated from UBC with a Doctor of Pharmacy degree (PharmD) in 2022 and worked as a pharmacist across various healthcare settings. These experiences gave me firsthand insight into how fragmented systems and manual processes can impact patient care, which sparked my interest in building software solutions that can address these challenges. Over time, that interest grew into a genuine passion for software development and led me to pursue it as a career.
 
-I have since worked as a Software Developer Intern at Kardium, where I developed software tools to help streamline feature development for the Globe Pulsed Field System, an advanced medical device designed to treat atrial fibrillation through high-definition cardiac mapping and pulsed field ablation. 🫀💻
+Since then, I have worked at Kardium as a Software Developer Intern on the Globe Pulsed Field System, an advanced medical device designed to treat atrial fibrillation through high-definition cardiac mapping and pulsed field ablation. In this role, I developed a configuration management tool to streamline feature development for the Globe System and also helped refactor the host interface for improved consistency and maintainability.
 
-I am passionate about full-stack software development, modern web technologies, software architecture, cloud infrastructure, and agentic AI systems. I enjoy creative problem-solving, turning innovative ideas into practical solutions, and building software that is purposeful, intuitive, and thoughtfully designed. 💡✨
+My technical interests include full-stack development, software architecture, cloud infrastructure, and agentic AI systems. I also enjoy creative problem solving, turning innovative ideas into practical solutions, and building software that is purposeful, intuitive, and thoughtfully designed.
 
-- ☁️ Currently furthering my knowledge in amazon web services
-- 🤝🏻 I am always looking to collaborate on new innovative project ideas
-- 📷 Some of my other interests include: photography, digital art, video games, food, travel
-- 🐈 Fun fact: I have a cute cat named Rhea who is an American Shorthair and Maine Coon mix
-- ✉️ How to reach me: connect with me on LinkedIn below or email me at stephaniexue3@gmail.com
+- ☁️ Currently learning more about cloud infrastructure and AWS
+- 🤝🏻 Open to collaborating on innovative or fun project ideas
+- 📷 Other interests: photography, digital art, video games, food, and travel
+- 🐈 Fun fact: I have a cat named Rhea who loves cozy naps and keeping me company while I code
+- ✉️ How to reach me: connect with me on LinkedIn or send me an email at stephaniexue3@gmail.com
   
 <br> 
 
