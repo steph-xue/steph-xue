@@ -14,17 +14,8 @@ My technical interests include full-stack development, software architecture, cl
   
 <br> 
 
-# Connect With Me 🤝🏻
+# Connect With Me 👩🏻‍💻
 [![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://stephxue.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephxue/)
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/steph-xue)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stephaniexue3@gmail.com)
-
-<br>
-
-# Technical Skills 💻
-- **Languages:** Java, Python, TypeScript, JavaScript, C++, C, SQL, HTML, CSS
-- **Frameworks & Libraries:** React, Next.js, Node.js, Express.js, Django, Flask, FastAPI, React Native, Expo, Streamlit
-- **Databases, Cloud & DevOps:** MongoDB, SQLite, AWS, Docker, TeamCity
-- **ML & AI Tools:** NumPy, pandas, Matplotlib, scikit-learn, Hugging Face, GitHub Copilot, Claude Code, Codex, Cursor
-- **Developer Tools & Testing:** Git, GitHub, Bitbucket, VS Code, IntelliJ, Vite, Gradle, JUnit, Postman
