@@ -4,7 +4,7 @@ My name is Steph and I am currently a Bachelor of Computer Science (BCS) student
 
 Since then, I have worked at Kardium as a Software Developer Intern on the Globe Pulsed Field System, an advanced medical device designed to treat atrial fibrillation through high-definition cardiac mapping and pulsed field ablation. In this role, I developed a configuration management tool to streamline feature development for the Globe System and helped refactor the host interface for improved consistency and maintainability.
 
-My technical interests include full-stack development, software architecture, cloud infrastructure, and agentic AI systems. I enjoy creative problem-solving, turning innovative ideas into practical solutions, and building software that is purposeful, intuitive, and thoughtfully designed.
+My technical interests include full-stack development, software architecture, cloud infrastructure, and agentic AI systems. I enjoy creative problem-solving and turning innovative ideas into practical solutions, with a focus on building software that is purposeful, intuitive, and thoughtfully designed.
 
 - ☁️ Currently learning more about cloud infrastructure and AWS
 - 🤝🏻 Open to collaborating on innovative or fun project ideas
