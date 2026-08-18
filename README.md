@@ -1,13 +1,16 @@
 # Hi There 👋
 
-My name is Steph (@steph-xue) and I am a Bachelor of Computer Science (BCS) student at the University of British Columbia (UBC). I previously interned as a Software Developer at Kardium, where I am implementing tools and building automated test suites in Java to help streamline feature development for the Globe Pulsed Field System, an advanced catheter technology designed to treat atrial fibrillation through high-definition mapping, single-shot pulmonary vein isolation, and atrial ablation 👩‍💻🫀. I also have a clinical background in healthcare as a pharmacist, having previously obtained a Doctorate of Pharmacy degree (PharmD) at the University of British Columbia in 2022 👩‍⚕️🩺. I am passionate about full-stack software development and system architecture, artificial intelligence, and cloud computing. I thrive on creative problem solving and love building impactful software and applications that address real-world challenges. I'm also committed to fostering inclusivity and empowering communities for women in tech.
+My name is Steph (@steph-xue), and I am a Bachelor of Computer Science (BCS) student at the University of British Columbia (UBC). I also previously graduated from UBC with a Doctor of Pharmacy degree (PharmD) in 2022 and worked as a pharmacist across various healthcare settings. These experiences showed me firsthand how fragmented systems and manual processes could impact patient care, which sparked my interest in building software to solve real-world problems. Over time, that interest grew into a genuine passion for software development, which led me to pursue a career in this field. 👩🏻‍💻🖥️
 
-- 🫀 I am currently a Medical Device Software Developer Intern @ Kardium (Fall 2025 - Spring 2026)
-- 🌱 Currently furthering my knowledge in full-stack software development, software architecture, and cloud computing
-- 💞️ I am always looking to collaborate on new innovative project ideas
-- 🎨 Some of my other interests include: photography, digital art, video games, food, travel, and exploring coffee shops
+I have since worked as a Software Developer Intern at Kardium, where I developed software tools to help streamline feature development for the Globe Pulsed Field System, an advanced medical device designed to treat atrial fibrillation through high-definition cardiac mapping and pulsed field ablation. 🫀💻
+
+I am passionate about full-stack software development, modern web technologies, software architecture, cloud infrastructure, and agentic AI systems. I enjoy creative problem-solving, turning innovative ideas into practical solutions, and building software that is purposeful, intuitive, and thoughtfully designed. 💡✨
+
+- ☁️ Currently furthering my knowledge in amazon web services
+- 🤝🏻 I am always looking to collaborate on new innovative project ideas
+- 📷 Some of my other interests include: photography, digital art, video games, food, travel
 - 🐈 Fun fact: I have a cute cat named Rhea who is an American Shorthair and Maine Coon mix
-- 📫 How to reach me: connect with me on LinkedIn below or email me at stephaniexue3@gmail.com
+- ✉️ How to reach me: connect with me on LinkedIn below or email me at stephaniexue3@gmail.com
   
 <br> 
 
