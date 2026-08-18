@@ -14,7 +14,7 @@ My technical interests include full-stack development, software architecture, cl
   
 <br> 
 
-# Connect With Me 🤝🏻
+# Connect With Me 👩🏻‍💻
 [![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://stephxue.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephxue/)
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/steph-xue)
@@ -22,7 +22,7 @@ My technical interests include full-stack development, software architecture, cl
 
 <br>
 
-# Technical Skills 👩🏻‍💻
+# Technical Skills 💻
 
 ### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
